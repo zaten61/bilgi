@@ -1,2 +1,1 @@
-# bilgi
-Gerekli Bilgiler
+Merhaba arkadaşlar...
